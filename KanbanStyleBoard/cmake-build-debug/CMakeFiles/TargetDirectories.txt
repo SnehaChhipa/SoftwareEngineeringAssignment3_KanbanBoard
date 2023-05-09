@@ -1,0 +1,3 @@
+/Users/snehachhipa/Documents/KanbanStyleBoard-GroupBW/cmake-build-debug/CMakeFiles/KanbanStyleBoard.dir
+/Users/snehachhipa/Documents/KanbanStyleBoard-GroupBW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/snehachhipa/Documents/KanbanStyleBoard-GroupBW/cmake-build-debug/CMakeFiles/rebuild_cache.dir

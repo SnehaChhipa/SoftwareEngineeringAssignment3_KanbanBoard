@@ -1,0 +1,14 @@
+Apple:
+    iPhone 12
+    iPhone X
+    iPhone 4
+Samsung:
+    Samsung A51
+    Samsung S22+
+Huawei:
+    Huawei P40 Pro
+Google:
+    Google Pixel 6
+    Google Pixel 7 Pro
+    Google Pixel 5a
+

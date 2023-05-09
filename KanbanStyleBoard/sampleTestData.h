@@ -1,0 +1,6 @@
+#include "types.h"
+
+#ifndef KANBANSTYLEBOARD_SAMPLETESTDATA_H
+#define KANBANSTYLEBOARD_SAMPLETESTDATA_H
+boardPtr sampleBoardContent();
+#endif //KANBANSTYLEBOARD_SAMPLETESTDATA_H
